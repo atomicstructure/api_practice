@@ -49,7 +49,6 @@ class _HomeScreenState extends State<HomeScreen> {
           title: Text(user.phone),
           subtitle: Text(user.email),
           tileColor: color,
-          
         );
       },),
 
